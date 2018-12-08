@@ -1,1 +1,1 @@
-# DSS-Practical-Machine-Learning-Project
+practical-machine-learning-prediction-assignment
